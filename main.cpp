@@ -16,7 +16,7 @@ int main()
 	}
 	else
 	{
-		cout << "Maybe No solution found"  << endl;
+		cout << "Maybe maybe No solution found"  << endl;
 	}
 	
 
